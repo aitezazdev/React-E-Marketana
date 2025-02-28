@@ -1,0 +1,13 @@
+/* @font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/Poppins/Poppins-Light.ttf") format("woff2");
+} */
+
+@import "tailwindcss";
+
+/* @theme {
+  --font-sans: "Poppins", system-ui, sans-serif;
+} */
