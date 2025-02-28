@@ -36,7 +36,7 @@ const App = () => {
           <Route path="/checkout" element={<Checkout />} />
           <Route
             path="/confirmation"
-            element={<OrderConfirmation whatsappNumber="+923070888643" />}
+            element={<OrderConfirmation whatsappNumber="+923081582025" />}
           />
           <Route path="/search" element={<SearchResults />} />
           <Route path="/reviews" element={<Reviews />} />
